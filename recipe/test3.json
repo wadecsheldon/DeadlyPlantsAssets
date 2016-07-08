@@ -1,0 +1,10 @@
+{
+    "type": "shaped",
+    "output": {"name": "dye", "quantity": 2, "meta": 15},
+    "pattern": ["AB ",
+                "AAC",
+                "A  "],
+    "key": [{"symbol": "A", "item": {"name": "cookie"}},
+            {"symbol": "B", "item": {"isBlock": "true", "name": "dirt"}},
+            {"symbol": "C", "item": {"name": "dye", "quantity": 1, "meta": 1}}]
+}

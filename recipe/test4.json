@@ -1,0 +1,7 @@
+{
+    "type": "shapeless",
+    "output": {"isBlock": "true", "name": "bedrock"},
+    "inputs": [{"name": "diamond"},
+               {"name": "lava_bucket"},
+               {"isBlock": "true", "name": "wool", "quantity": 1, "meta": 2}]
+}

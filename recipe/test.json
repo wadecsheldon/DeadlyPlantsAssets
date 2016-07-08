@@ -1,0 +1,8 @@
+{
+    "type": "shaped",
+    "output": {"isBlock": "true", "name": "obsidian"},
+    "pattern": ["AAA",
+                "AAA",
+                "AAA"],
+    "key": [{"symbol": "A", "item": {"name": "cookie"}}]
+}

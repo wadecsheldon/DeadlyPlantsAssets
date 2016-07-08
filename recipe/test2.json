@@ -1,0 +1,7 @@
+{
+    "type": "shaped",
+    "output": {"name": "apple", "quantity": 4},
+    "pattern": ["AA",
+                "AA"],
+    "key": [{"symbol": "A", "item": {"isBlock": "true", "name": "cobblestone"}}]
+}
